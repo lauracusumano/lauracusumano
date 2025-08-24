@@ -5,15 +5,15 @@ Currently building projects in **SQL** and **business intelligence** to uncover 
 
 ---
 
-### 🚀 About Me
-- 📊 Exploring data analytics through SQL projects  
-- 💻 Hands-on with SQLite, DB Browser, and Mode Analytics  
-- 🌍 Based in Paris, open to remote opportunities  
-- 📚 Learning SQL, Python basics, and visualization tools (Power BI / Tableau)  
+### About Me
+- Exploring data analytics through SQL projects  
+- Hands-on with SQLite, DB Browser, and Mode Analytics  
+- Based in Paris, open to remote opportunities  
+- Learning SQL, Python basics, and visualization tools (Power BI / Tableau)  
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 - **SQL** (SQLite, Mode, DB)  
 - **Excel & Google Sheets**  
 - **Data Analysis & Business Intelligence**  
@@ -22,10 +22,10 @@ Currently building projects in **SQL** and **business intelligence** to uncover 
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 - [Retail Sales Analysis](https://github.com/lauracusumano/retail-sales-analysis)  
   SQL queries uncovering revenue drivers, profit margins, customer behavior, and business risks.  
-
+- With more to come...
 ---
 
 
